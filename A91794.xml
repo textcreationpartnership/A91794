@@ -1,0 +1,733 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The necessity of toleration in matters of religion, or, Certain questions propounded to the Synod, tending to prove that corporall punishments ought not to be inflicted upon such as hold errors in religion, and that in matters of religion, men ought not to be compelled, but have liberty and freedome. Here is also the copy of the edict of the Emperours Constantinus and Licinius, and containing the reasons that inforced them to grant unto all men liberty to choose, and follow what religion they thought best. Also here is the faith of the Assembly of Divines, as it was taken out of the exactest copy of their practise, with the non-conformists answer why they cannot receive and submit to the said faith. / By Samuel Richardson.</title>
+            <author>Richardson, Samuel, fl. 1643-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91794</idno>
+            <idno type="STC">Wing R1409</idno>
+            <idno type="STC">Thomason E407_18</idno>
+            <idno type="STC">Thomason E407_19</idno>
+            <idno type="STC">ESTC R203392</idno>
+            <idno type="EEBO-CITATION">99863359</idno>
+            <idno type="PROQUEST">99863359</idno>
+            <idno type="VID">160511</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91794)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160511)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[18], 64:E407[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The necessity of toleration in matters of religion, or, Certain questions propounded to the Synod, tending to prove that corporall punishments ought not to be inflicted upon such as hold errors in religion, and that in matters of religion, men ought not to be compelled, but have liberty and freedome. Here is also the copy of the edict of the Emperours Constantinus and Licinius, and containing the reasons that inforced them to grant unto all men liberty to choose, and follow what religion they thought best. Also here is the faith of the Assembly of Divines, as it was taken out of the exactest copy of their practise, with the non-conformists answer why they cannot receive and submit to the said faith. / By Samuel Richardson.</title>
+                  <author>Richardson, Samuel, fl. 1643-1658.</author>
+                  <author>Constantine I, Emperor of Rome, d. 337.</author>
+                  <author>Westminster Assembly (1643-1652)</author>
+               </titleStmt>
+               <extent>[2], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the yeare of jubilee 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 17".</note>
+                  <note>"If the magistrate be a member of a church ..." = Thomason E.407[19].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Westminster Assembly (1643-1652) --  Early works to 1800.</term>
+               <term>Freedom of religion --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Religious tolerance --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160511:1" rendition="simple:additions"/>
+            <p>The neceſſity of
+TOLERATION
+In matters of
+RELIGION,
+OR,
+Certain QUESTIONS propounded to
+the <hi>Synod,</hi> tending to prove that Corporall puniſh<g ref="char:EOLhyphen"/>ments
+ought not to be inflicted upon ſuch as
+hold Errors in Religion, and that in matters
+of Religion, men ought not to be compell<g ref="char:EOLhyphen"/>ed,
+but have liberty and freedome.</p>
+            <p>Here is alſo the copy of the Edict of the
+Emperours <hi>Conſtantinus</hi> and <hi>Licinius,</hi> and con<g ref="char:EOLhyphen"/>taining
+the Reaſons that inforced them to grant un<g ref="char:EOLhyphen"/>to
+all men liberty to chooſe, and follow what
+Religion they thought beſt.</p>
+            <p>Alſo here is the faith of the Aſſembly of Divines, as it was
+taken out of the exacteſt Copy of their practiſe, with
+the non-conformiſts anſwer why they cannot re<g ref="char:EOLhyphen"/>ceive
+and ſubmit to the ſaid faith.</p>
+            <q>
+               <p>For ſuch are falſe Apoſtles, deceitfull vvorkers, transforming themſelves
+into the Apoſtles of Chriſt, and no marv<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, for Satan himſelf is transfor<g ref="char:EOLhyphen"/>med
+into an angel of light: therefor<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is no great thing if his Miniſters al<g ref="char:EOLhyphen"/>ſo
+be transformed as the Miniſters of Righteouſneſſe, vvhoſe end ſhal be ac<g ref="char:EOLhyphen"/>cording
+to their vvorkes.</p> 
+               <bibl>2 <hi>Cor.</hi> 11. 13, 14, 15.</bibl>
+            </q>
+            <q>
+               <p>Ye are bought vvith a price, be not the Servants of men,</p> 
+               <bibl>1 <hi>Cor</hi> 7. 23.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Ye ſuffer fooles gladly,</hi>
+               </p> 
+               <bibl>2 Cor. 11. 19.</bibl> Firſt peruſe, then refuſe,</q>
+            <p>By Samuel Richardſon.</p>
+            <q>
+               <l>VVhere Romiſh Tyrannie hath the upper hand,</l>
+               <l>Darkneſſe of minde, and ſuperſtition ſtand.</l>
+            </q>
+            <p>London printed in the yeare of Iubilee 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:160511:2"/>
+            <pb n="1" facs="tcp:160511:2"/>
+            <head>A Copy of the
+IMPERIAL CONSTITUTION
+OF
+Conſtantinus and Licinius,
+Containing the Reaſons that moved
+them to grant unto all their Subjects free Li<g ref="char:EOLhyphen"/>berty
+in matters of Religion, which is
+worthy the view, and conſideration of all men,
+eſpecially thoſe in Authority.</head>
+            <p>NOt long ago we <hi>weighed with our ſelves,</hi> that <hi>the Liber<g ref="char:EOLhyphen"/>ty
+and Freedom of Religion ought not in any cauſe to be
+prohibited;</hi>
+               <note place="margin">Euſeb. lib. 10. cap. 5.</note> but <hi>that free leave ought to be given to every
+man, to do therein, according to his will and minde.</hi> We
+have given Commandment to all <hi>men to qualifie matters of Reli<g ref="char:EOLhyphen"/>gion,
+as they themſelves thought good,</hi> and that alſo the Chriſtians
+ſhould keep the opinions and Faith of their Religion; but be<g ref="char:EOLhyphen"/>cauſe
+that many, and ſundry opinions by the ſame, Our firſt Li<g ref="char:EOLhyphen"/>cenſe,
+ſpring, and increaſe through ſuch liberty granted, we
+thought good manifeſtly to adde thereunto, and make plain ſuch
+things, whereby perchance ſome of them in time to come, may
+from ſuch their obſervance be let, or hindred; when therefore
+by <hi>proſperous ſucceſſe,</hi> I <hi>Conſtantinus Auguſtus,</hi> and <hi>Licinius Au<g ref="char:EOLhyphen"/>guſtus</hi>
+came to <hi>Mediolanum,</hi> and there ſate in Counſell upon ſuch
+things as ſerved for the <hi>utility and profit of the Common-weal;</hi>
+theſe things amongſt others we thought would be <hi>beneficiall to all
+<pb n="2" facs="tcp:160511:3"/>
+men,</hi> yea, &amp; before all other things we purpoſed to eſtabliſh thoſe
+things wherein the true Reverence and worſhip of God is com<g ref="char:EOLhyphen"/>prehended,
+that is, to give unto Chriſtians free <hi>choice to follow
+what Religion they think good,</hi> and whereby the ſame ſincerity and
+Celeſtiall grace which is in every place received may alſo be em<g ref="char:EOLhyphen"/>braced
+and accepted of all our loving Subjects: According
+therefore unto this our pleaſure <hi>upon good adviſement, and ſound
+judgement,</hi>
+               <note place="margin">☞</note> We <hi>have decreed,</hi> that no man ſo hardly be denied to
+chooſe, and follow the <hi>Chriſtian minde, to what Religion he think<g ref="char:EOLhyphen"/>eth
+meet himſelf, whereby God may perform upon us, all his ac<g ref="char:EOLhyphen"/>cuſtomed
+care and goodneſs;</hi> to the intent therefore, you might
+know that this is our pleaſure. We thought it neceſſary to write
+this unto you, whereby all ſuch errours and opinions being re<g ref="char:EOLhyphen"/>moved,
+which in our former Letters (being ſent unto you in the
+behalf of the Chriſtians) are contained, and which ſeem very
+indiſcreet, and contrary to our clemency, may be made fruſtrate
+&amp; annihilate.<note place="margin">☞</note> 
+               <hi>Now therefore firmly, and freely, we will and com<g ref="char:EOLhyphen"/>mand,
+that every man have a free Liberty to obſerve the Chriſtian
+Religion, and that without any grief, or moleſtation, he may be ſuf<g ref="char:EOLhyphen"/>fered
+to do the ſame:</hi> Theſe things have we thought good to ſig<g ref="char:EOLhyphen"/>nifie
+unto you by as plaine words as we may, that we have given
+to the Chriſtians free and abſolute power to keep and uſe their
+Religion, and for ſo much as this Liberty is abſolutely given of
+us unto them to uſe and exerciſe their former obſervance, <hi>if any
+be diſpoſed, it is manifeſt that the ſame helpeth much to eſtabliſh the
+publick tranquility of our lives; every man to have licenſe, and li<g ref="char:EOLhyphen"/>berty
+to uſe, and chooſe what kinde of worſhipping he liſt himſelf;</hi>
+and this is done of us only for the intent that <hi>we ſhould have no
+man to be inforced to one Religion more then another:</hi> And this
+thing alſo amongſt others we have provided for the Chriſtians,
+that they may have again the poſſeſsion of ſuch places, in which
+heretofore they have been accuſtomed to make their Aſſemblies:
+So that if any have bought or purchaſed the ſame, either of us,
+or of any other, the ſame places, without either money or other
+recompenſe, forthwith, and without delay, We will to be re<g ref="char:EOLhyphen"/>reſtored
+again to the ſaid Chriſtians: and if any man have ob<g ref="char:EOLhyphen"/>tained
+the ſame by gift from us and ſhall require any recompence
+to be made to them in that behalf, then let the Chriſtians repair
+<pb n="3" facs="tcp:160511:3"/>
+to the Preſident (being the Iudge appointed for that place) that
+conſideration may be had of thoſe men by our benignity, all which
+things we will and command that you ſee to be given, and reſtored
+freely, and with diligence unto the ſociety of the Chriſtians, all
+delay ſet apart, and becauſe the Chriſtians themſelves are un<g ref="char:EOLhyphen"/>derſtood
+to have had not only thoſe places wherein they were
+accuſtomed to reſort together, but certain other peculiar places
+alſo, not being private to any one man, but belonging to the
+right of their Congregation and ſociety; you ſhall ſee alſo all
+thoſe to be reſtored to the Chriſtians, that is to ſay, to every <hi>fel<g ref="char:EOLhyphen"/>lowſhip
+aud company of them,</hi> according to the decree, whereof
+we have made mention, all delay ſet apart: provided, that the
+order we have taken in the mean time be obſerved, that if any (ta<g ref="char:EOLhyphen"/>king
+no recompence) ſhall reſtore the ſame lands and poſſeſsions,
+they ſhall not miſtruſt but be ſure <hi>to be ſaved harmleſs by us;</hi> in
+all theſe things, it ſhal be your part to imply your diligence in the
+behalf of the aforeſaid company of the Chriſtians, whereby
+this our Commandement may ſpeedily be accompliſhed, and alſo
+in this cauſe by <hi>our clemency,</hi>
+               <note place="margin">☞</note> 
+               <hi>the Common and publick peace may
+be preſerved; for undoubtedly by this means, as before we have ſaid,
+the good will and favour of God towards us (where of in many cau<g ref="char:EOLhyphen"/>ſes
+we have had good experience) ſhall alwayes continue with us:</hi>
+And to the intent, that this our Conſtitution may be notified to all
+men; it ſhall be requiſite, that the Copy of theſe our Letters be
+ſet up in all places that men may read and know the ſame, leaſt
+any ſhould be ignorant thereof.</p>
+            <p>So alſo <hi>Maximinus</hi> the Emperour after he had perſecuted the
+Chriſtians, ſent forth his Edict to the contrary, That all men
+ſhould have liberty to uſe what Religion they like beſt, ſeeing
+that before that time upon that occaſion, that <hi>Diocleſianus</hi> and
+<hi>Maximinianus</hi> our Progenitors, commanded the Aſſemblies and
+meetings of Chriſtians to be cut off, ſo that there were many
+of them ſpoiled and robbed;<note place="margin">Euſeb. ilb. 9. cap. 10. Fix. Act Mo<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ib. 1 pag. 113.</note> leaſt our Subjects ſhould be ſpoiled
+of their goods and ſuſtance, which thing chiffly to prevent, is
+our onely indeavour, &amp;c. which thing was very well taken, and
+highly allowed of the Romans, and wiſemen.</p>
+            <p>By reaſon of theſe Edicts, great tranquility followed, and
+long continued perſecution ceaſed: ſo as Fox declares, that the
+<pb n="4" facs="tcp:160511:4"/>
+Church continued without any open ſlaughter for a thouſand
+yeers together, till <hi>Anno 1300.</hi> and the burning of <hi>Iohn Huſs,</hi>
+and <hi>Ieremy</hi> of <hi>Prague</hi> for Hereticks by the Counſell of <hi>Conſtance,</hi>
+cauſed the Bohemians to raiſe an Army againſt the Authors of
+their death: and God was ſo with the Bohemian Army under
+<hi>Ziſca,</hi> that they always Conquered, ſo that God hath cauſed
+much evil to come upon them, who have compelled men in mat<g ref="char:EOLhyphen"/>ters
+of Religion.</p>
+            <div type="part">
+               <head>That Religion ought to be free;</head>
+               <p>1. Becauſe it is Gods way, to have Religion free, and only to
+flow from an inward principle of Faith and love; neither would
+God be worſhipped of unwilling Worſhippers, <hi>Ioh. 4. 4.</hi>
+               </p>
+               <p>2. It is Gods Prerogative only to force to Religion by work<g ref="char:EOLhyphen"/>ing
+Faith in mens hearts, for though Religion be natural, yet true
+Religion is ſupernatural, and proceeds from the Spirit of God.</p>
+               <p>3. Becauſe, the end why God hath a Church, is, that he might
+have a people ſeparated from others in the world, to glorifie him
+in a holy converſation, to the convincing of thoſe that are out of
+the Church; therefore there muſt be a world, before whom the
+Church muſt walk, to whom ſuch as walk diſorderly, are to be caſt
+by Excommunication, and the Church is to wait for their
+Repentance.</p>
+               <p>4. Becauſe, if there ſhould be an eſtabliſhed Law for all per<g ref="char:EOLhyphen"/>ſons
+to ſubmit unto, it would tend to the wounding of the ſouls,
+and undoing the bodies of very many, that could not ſubmit to
+any one way, becauſe their judgements ſo much differ: alſo if there
+ſhould be any defect in the eſtabliſhed Law, as it is poſsible to be
+(as we know by woful experience) the godly ſhall ſuffer oppreſ<g ref="char:EOLhyphen"/>ſion
+for conſcience of the truth againſt that defect by the execu<g ref="char:EOLhyphen"/>tion
+of that Law, which I ſuppoſe would be a grief to honeſt
+hearts, ſeeing we finde, that when Laws are made concerning
+Religion, ſuch as make conſcience are catched, as <hi>Daniel,</hi> and the
+three children were.</p>
+               <p>5. Becauſe it is the beſt for the publick peace to give every
+one content, for if there be ſet up an Order in Religion for a
+<pb n="5" facs="tcp:160511:4"/>
+Law, and thereby pleaſe one ſort of people, another ſort will be
+diſpleaſed, who, it may be, have as many good reaſons for that
+they would have, as the others; and ſuch as like not a Tolerati<g ref="char:EOLhyphen"/>on,
+it is to be feared, they are not rightly principled themſelves,
+and ſo are not competent Judges.</p>
+               <p>And as for thoſe who think otherways, I deſire they would ſe<g ref="char:EOLhyphen"/>riouſly
+conſider, and anſwer theſe queſtions by the Scriptures.</p>
+            </div>
+            <div type="part">
+               <head>Queſtions propounded to the Synod, and all
+honeſt hearted, and conſcientious people,
+whether Corporal puniſhments ought to
+be inflicted upon ſuch as hold Errors
+in Religion.</head>
+               <p>QUEST. 1.</p>
+               <p>WHether corporall puniſhment can open blinde eyes, and
+give light to dark underſtandings?</p>
+               <p>2. Whether carnall puniſhments can produce any more then a
+carnall repentance and obedience?</p>
+               <p>3. Whether the deſtroying of mens bodies for errors, be not a
+means to prevent their converſion; ſeeing ſome are not called un<g ref="char:EOLhyphen"/>till
+the eleventh hour: and if they ſhould be cut off for their er<g ref="char:EOLhyphen"/>rors
+the ſeventh, how ſhould they come in? <hi>Mat. 20. 6.</hi>
+               </p>
+               <p>4. Whether thoſe who would force other mens conſciences,
+be willing to have their own forced?</p>
+               <p>5. Whether it be wiſdome and ſafe to make ſuch ſole Judges
+in matters of Religion, who are not infallible, but as liable to erre
+as others?</p>
+               <p>6. If a Father, or Magiſtrate have not power to force a virgin
+to marry one ſhe cannot love; whether they have power to force
+one where they cannot believe, againſt the light and checks of
+their own conſciences?</p>
+               <p>
+                  <pb n="6" facs="tcp:160511:5"/>
+7. Whether the Scripture makes the Magiſtrate judge of our faith.</p>
+               <p>8. If the Magiſtrate may determine what is truth; whether
+we muſt not beleive, and live by the Magiſtrates faith, and change
+our Religion at their pleaſures? And if nothing muſt be preach<g ref="char:EOLhyphen"/>ed,
+nor printed, nor allowed to paſſe, unleſſe certain men pleaſe to
+approve, and give their allowance thereto, under their honds;
+whether ſuch do not by this practice, tell God, that unleſſe he wil
+reveale his truth firſt to them, they will not ſuffer it to be pub<g ref="char:EOLhyphen"/>liſhed,
+and ſo not to be known, and whether the Licencer ſetting
+his hand to the booke to licence it, (he being a Prieſt by his ordi<g ref="char:EOLhyphen"/>nation
+and from the Pope) be not the mark of the Beaſt, ſpoken
+of <hi>Revel. 13. 17?</hi> And whether it be not worſe then any of our
+former Patents before the Parliament: is not this a Spirituall
+wickedneſſe in high places which ſtrikes at the truth: are they fit
+to be Licencers of the truth, who when the truth hath been tende<g ref="char:EOLhyphen"/>red
+to be licenſed, they have confeſſed the truth of it, as they have
+been free to licence it; but refuſed, becauſe they durſt not? And
+whether it can be made appeare, that Gon hath revealed his
+truth firſt to theſe Miniſters of <hi>England,</hi> and ſo the firſt ſpreaders
+of it? Inſtance who oppoſed the Prelats, the Miniſters, or the
+people; firſt? And ſo of the reſt.</p>
+               <p>9. Whether it be not the command of Chriſt, that the tares
+(thoſe that walk in lies) and the wheat (thoſe that walke in the
+truth) ſhould be let alone; and the blinde (led in a falſe Religion)
+which are offended at the declaring of the truth, ſhould be let
+alone? <hi>Mat. 13. 30. 38. Mat. 15. 15.</hi>
+               </p>
+               <p>10. Whether he was not reproved, that would have fire from
+heaven to devour thoſe that reject Chriſt, <hi>Luke 9. 54. 55.</hi>
+               </p>
+               <p>11. Whether the ſervants of the Lord are not forbidden to
+ſtrive, but to <hi>be gentle towards all? 2 Tim 4. 2.</hi>
+               </p>
+               <p>12 Whether the Saints weapons againſt errors, be carnall or
+no? 2 <hi>Cor.</hi> 10. 4.</p>
+               <p>13 Whether it was not Chriſts command, that his Diſciples
+when they were perſecuted, they ſhould pray; &amp; if curſed, bleſs?</p>
+               <p>14. Whether the Scriptures declare, that the Saint ſhould per<g ref="char:EOLhyphen"/>ſecute
+others, and whether the gentle lambs of Chriſt will or
+can ſerve the Wolves ſo, ſeeing he ſent his as ſheep among
+wolves, and not as wolves among ſheep, to kill and impriſon,
+<hi>Matth. 10. 16.</hi>
+               </p>
+               <p>
+                  <pb n="7" facs="tcp:160511:5"/>
+15. Whether Chriſt hath ſaid, He will have an unwilling peo<g ref="char:EOLhyphen"/>ple
+compelled to ſerve him?</p>
+               <p>16. Whether ever God did plant his Church by violence and
+bloud-ſhed?</p>
+               <p>17. Whether tares may not become wheat, and the blinde ſee,
+and thoſe that now oppoſe and reſiſt Chriſt, afterwards receive
+him: and he that is now in the Divels ſnare, may get out, and
+come to repentance: and ſuch as are idolaters, as the <hi>Corinthians</hi>
+were, may become true worſhippers, as they that are ſtrangers
+may become Gods people?</p>
+               <p>18. Whether to convert an heretick, and to caſt out uncleane
+ſpirits, be done any other way then by the finger of God, by the
+mighty power of the Spirit in the word?</p>
+               <p>19. Whether he that is not conformable to Chriſt, may not at
+the ſame time be a good ſubject to the State, and as profitable to
+it?</p>
+               <p>20. Whether men that differ in Religion, may not be tollera<g ref="char:EOLhyphen"/>ted,
+ſeeing <hi>Abraham</hi> abode among the Canaanites along time;
+yet contrary to them in religion, <hi>Geneſ. 13. 7.</hi> &amp; 16. 13. and he ſo<g ref="char:EOLhyphen"/>journed
+in <hi>Gezer,</hi> and King <hi>Abimelech</hi> gave him leave to abide
+in his land, <hi>Gen. 20. 21, 23, 24.</hi> And <hi>Iſaac</hi> dwelt in the ſame land,
+yet contrary in Religion <hi>Gen. 31.</hi> The people of <hi>Iſrael</hi> were about
+430. yeers in <hi>Egypt,</hi> and afterwards in <hi>Babylon,</hi> all which time
+they differed in Religion from the State, <hi>Exod. 12. 2 Chron. 36.</hi>
+Chriſt and his Diſciples differed from the common Religion of
+the State, <hi>Acts 19. 20.</hi> and when the enemies of the truth raiſed
+up any tumults, the wiſdom of the Magiſtrate moſt wiſely appea<g ref="char:EOLhyphen"/>ſed
+them, <hi>Acts 18. 14,</hi> and 19. 15.</p>
+               <p>21. Whether it be not better for us, that a patent were granted
+to monopolize all the corne and cloth, and to have it meaſured out
+unto us at their price &amp; pleaſure, (which yet were intollerable) as
+for ſome men to appoint and meaſure out unto us what and how
+much we ſhall believe and practice in matters of Religion.</p>
+               <p>22. Whether there be not the ſame reaſon that they ſhould be
+appointed by us what they ſhall believe and practice in Religion,
+as for them to do ſo to us, ſeeing we can give as good grounds for
+what what we believe and practice (as they can do for what they
+would have) if not better.</p>
+               <p>
+                  <pb n="8" facs="tcp:160511:6"/>
+23. Whether men heretofore have not in zeale for Religion,
+perſecuted the Son of God, in ſtead of the ſon of perdition?</p>
+               <p>24. Whether it is not a burden great enough for the Magiſtrate
+to governe and judge in civill cauſes, to preſerve the ſubjects
+rights, peace and ſafety?</p>
+               <p>25. If the Magiſtrate muſt judge and puniſh in matters of
+Religion, the Magiſtrate muſt evet be troubled with ſuch perſons
+and ſuch cauſes: and if after his conſcience be convinced, he had
+no ſuch power, or ſee that it was truth he puniſhed; what hor<g ref="char:EOLhyphen"/>rors
+of conſcience is he like to poſſeſſe?</p>
+               <p>26. Whether he is fit to appoint puniſhments, that is not fit
+to judge?</p>
+               <p>27. If the Magiſtrate muſt puniſh errors in Religion, whether
+it doth not impoſe a neceſſity that the Magiſtrate is to have a
+certainty of knowledge in all intricate caſes? and whether God
+calls ſuch to that place, whom he hath not furniſhed with abili<g ref="char:EOLhyphen"/>ties
+for that place? And if a Magiſtrate be in darkeneſſe, and
+ſpiritually blinde, and dead; be fit to judge of light, of truth and
+error? and whether ſuch be fit for the place of the Magiſtracy?
+then whether it be not a ſcruple to a tender conſcience to ſub<g ref="char:EOLhyphen"/>mit
+to ſuch in civill cauſes becauſe not appointed to that place by
+God? whereas if the Magiſtrates power be onely civill, the doubt
+is reſolved, becauſe ſuch as may be fit for Magiſtrates, and men
+ought in conſcience in civill things to ſubmit unto them, ſo fit
+as their commands are good. <hi>Rom. 13.</hi>
+               </p>
+               <p>28. Whether there be any Scripture that ſaith, that any mans
+Conſcience is to be conſtrained, and whether the Magiſtrate
+can reach mens conſciences; and whether he be fit to make a
+law to conſcience, who cannot know when conſcience keepes
+it, and that cannot reward conſcience for keeping it, nor pun<g ref="char:EOLhyphen"/>iſh
+the conſcience for the breaking of it?</p>
+               <p>29. Whether it be not in vaine for us to have Bibles in Eng<g ref="char:EOLhyphen"/>liſh,
+if contrary to our underſtanding of them, we muſt believe
+as the Church believes, whether it be right or wrong?</p>
+               <p>30. Whether the Magiſtrate be not wronged, to give him the
+Title of <hi>Civill Magiſtrate</hi> onely, if his power be ſpirituall?</p>
+               <p>31. Whether lawes made meerly concerning ſpirituall
+things, be not ſpirituall alſo?</p>
+               <p>
+                  <pb n="9" facs="tcp:160511:6"/>
+32. Whether if no civill Law be broken, the civill peace be
+hurt or no?</p>
+               <p>33. Whether in compulſion for conſcience, not onely the
+guilty, but the innocent ſuffer alſo? As if the husband be an
+Heritick, his ſufferings may cauſe the innocent wife and children
+ſhall ſuffer alſo?</p>
+               <p>34. Whether ſuch as are ſpiritually dead, be capable to be
+ſpiritually infected?</p>
+               <p>35. Whether God will accept of a painted Sepulchre, a
+ſhadow, a meer complement of obedience, when the heart is
+dead and rotten, and hates God, and all that is good? God hath
+no need of hypocrites; much leſſe of forced ones: God will
+have thoſe to worſhip him as can worſhip him in ſpirit &amp; truth,
+<hi>Iohn 4.</hi>
+               </p>
+               <p>36. Whether the Scriptures appoint any other puniſhment
+to be inflicted upon Heriticks, then rejection and excommuni<g ref="char:EOLhyphen"/>cation?
+<hi>Tit. 3. 10.</hi>
+               </p>
+               <p>37. Whether freedome of conſcience would not joyne all
+ſorts of perſons to the Magiſtrate, becauſe each ſhared in the
+benefit?</p>
+               <p>38. Whether thoſe States (as the Low-Countries,) who
+grant ſuch liberty, do not live quietly, and flouriſh in great
+proſperity?</p>
+               <p>39. Whether perſecution for conſcience do not harden men
+in their way, and make them cry out of oppreſſion &amp; tyranny.</p>
+               <p>40. Whether ſome Corporall puniſhments would not make
+thouſands in <hi>England</hi> face about to Popery, as it did in Queene
+<hi>Maries</hi> time?</p>
+               <p>41. Whether lawes made concerning Religion, have not al<g ref="char:EOLhyphen"/>wayes
+catched the moſt holy men; witneſſe <hi>Daniel</hi> and the three
+Children: the reſt will be of what Religion you will.</p>
+               <p>42. Whether the Saints crave the help of the powers of this
+world to bring Chriſt to them, or feare their powers to keepe
+him from them?</p>
+               <p>43. If no Religion is to be practiſed, but that which the
+Common-wealth ſhall approve on: what if they will approve
+of no Religion? ſhall men have no Religion at all?</p>
+               <p>44. Whether the Saints ought not to continue their Aſſem<g ref="char:EOLhyphen"/>blies
+<pb n="10" facs="tcp:160511:7"/>
+of their worſhip of God, without, or againſt the conſent
+of the Magiſtrates; they being commanded to do ſo, <hi>Mal. 28.
+18, 19, 20. Heb. 10. 25.</hi> By an Angel from God, <hi>Acts 5. 20.</hi>
+It was the Apoſtles practice (who were not rebellious nor ſedi<g ref="char:EOLhyphen"/>tious)
+<hi>Acts 4. 18, 19, 20, 23.</hi> and 5. 22. 28.</p>
+               <p>45. Whether Vniformity in Religion in the State, do not
+oppreſſe millions of ſoules, and impoveriſh the Saints bodies.</p>
+               <p>46. Whether Gods people have not diſputed and taught a
+Religion new and worſhip, contrary to the State they lived in,
+and ſpread it in travelling and open places; as appeares <hi>Act.
+17. 2. 17.</hi> and 18. 48. yet no origancy and impetuouſneſſe. Yea,
+contrary to publike authority in the Nations Vniformity, in
+falſe worſhip, <hi>Dan. 3.</hi> the three Children; ſo the Apoſtle, <hi>Act. 4. 5.</hi>
+The Saints have openly witneſſed, that in matters ſpirituall, Je<g ref="char:EOLhyphen"/>ſus
+was King. <hi>Act. 17. 7.</hi> and for this Chriſt ſuffered; as appeares
+by his accuſation. <hi>Iohn 9. 19.</hi> Jeſus of Nazareth King of the
+Jewes, <hi>Pſal. 2. 6. Act. 2. 36.</hi> Gods people have ſeemed the di<g ref="char:EOLhyphen"/>ſturbers
+of the civill State, upon the Apoſtles preaching, there
+followed uprores, and Tumults, and uprores, at <hi>Iconium,</hi> at <hi>E<g ref="char:EOLhyphen"/>pheſus,</hi>
+at <hi>Ieruſalem, Act. 14. 4. 19. 29. 40. Act. 21. 30, 31.</hi>
+               </p>
+               <p>47. Whether Jeſus Chriſt, appointed any materiall Priſons for
+Blaſphemers of him? Whether notwithſtanding the confidence
+of the truth they have, to which they would force others, whe<g ref="char:EOLhyphen"/>ther
+the Biſhops, their Fathers, have not been as deeply miſta<g ref="char:EOLhyphen"/>ken;
+for now they ſee and ſay they are Antichriſtian.</p>
+               <p>48. Whether it be not a naturall Law for every man that li<g ref="char:EOLhyphen"/>veth,
+to worſhip that which he thinketh is God, and as he
+thinketh he ought to worſhip; and to force otherwiſe, will be
+concluded an oppreſſion of thoſe perſons ſo forced.</p>
+               <p>49. And whether it be beſt for us to put out our eyes, and
+ſee by the eyes of others who are as dim-ſighted?</p>
+               <p>In my judgement, your judgment is a lye: will ye compell
+me to believe a lye? compell ye a man to be preſent at a wor<g ref="char:EOLhyphen"/>ſhip
+which he loathes? or will ye force my tongue to ſpeake
+that which my hears cannot affect.</p>
+               <p>50. Whether it be in the power of any man to believe what
+he will, and as he will, the minde of man being perſwaded with
+<pb n="11" facs="tcp:160511:7"/>
+great reaſons is captivated, will he nill he: I am fully perſwa<g ref="char:EOLhyphen"/>ded
+of the truth of the Religion I profes, if I ſhould follow your
+Religion, I ſhould deceive men, (and go contrary to my conſci<g ref="char:EOLhyphen"/>ence)
+but I cannot deceive God.</p>
+               <p>51. Whether the Ordinance againſt preaching is not the
+onely way to inſnare the choyſeſt men, but it cannot catch the
+worſt, who ſhall judge what is error, and what is truth, I an<g ref="char:EOLhyphen"/>ſwer,
+if our enemies muſt judge, we muſt alwayes be perſecuted
+and abuſed by the worſt of men for they will judge it fit to
+perſecute us, they will call fruth error, and error truth, and
+ſometimes truth ſhall be eſteemed no leſſe then blaſphemy, and
+that which one man ſhall do as his duty, in conſcience to Gods
+Command, may be called obſtinacy, though unjuſtly, ſo that
+if any demand who is the moſt orthodox and ſound man, and
+freeſt from errors, the anſwer is now, if you will put it to the
+vote, its the major voice, the ſtrongeſt ſide, that ſide that hath
+the authority to back it, ſo that we muſt follow a multitude.
+Once a King being ſick, it was demanded of him who ſhould
+ſucceed him in the Crown, he anſwered, he that had the lon<g ref="char:EOLhyphen"/>geſt
+Sword, ſo it is now, and if truth hath but a few followers;
+it muſt be eſteemed error and rejected.</p>
+               <p>52. If the Magiſtrate, as a Magiſtrate, have a power from
+Chriſt, to puniſh ſuch as he is perſwaded in his conſcience are
+erroneous and hereticall, or becauſe he differs in Religion from
+the Magiſtrate, then Queen <hi>Mary</hi> and her Parliament did well,
+in burying the Martyrs for differing from her eſtabliſhed Reli<g ref="char:EOLhyphen"/>gion,
+they being as contrary to her R<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ligion as any are now in
+the Magiſtrates eyes.</p>
+               <p>53. Either the Civill, or the ſpirituall State muſt be ſupream:
+which of theſe muſt judge the other in ſpirituall matters? if the
+Magiſtrate, then he is above the Church, and ſo the head of the
+Church; and he hath his power from the People: (to govern
+the Church) whether it will not follow, that the People, as a
+People have originally as men a power to governe the Church,
+to ſee her do her duty, to reforme and correct her, and ſo the
+Spouſe of Chriſt, the wife of Chriſt muſt be corrected according
+to the pleaſure of the world, who lie in wickedneſſe? 1 <hi>Iohn</hi> 5.</p>
+               <p>54. Whether every man doth not venter his Soule upon the
+<pb n="12" facs="tcp:160511:8"/>
+truth of his Religion, which in his conſcience he is perſwaded
+of the truth of it.</p>
+               <p>55. Whether this Kingdome have any ſufficient ground to be<g ref="char:EOLhyphen"/>lieve
+they ſhall injoy their outward rights, and liberties ſo long
+as any one Religion is ſet up, and men forced under great penal<g ref="char:EOLhyphen"/>ties
+to be ſubject to it?</p>
+               <p>56. Whether it be not a horrible thing that a free diviſion of
+<hi>England,</hi> may not have ſo much liberty as is permitted to a
+Turk in this Kingdom who although he denies Chriſt, yet he
+can live quietly amongſt us here, and is it not a great ingratitude
+of this Kingdom to deny this liberty to ſuch as are friends and
+have been a meanes in their perſons and eſtates to ſave this
+Kingdome from diſtruction and deſolation. Oh <hi>England, Eng<g ref="char:EOLhyphen"/>land!</hi>
+Oh that thou wert wiſe to know the things that belongs
+to thy proſperity and peace, before it be too late, the hand of
+God is againſt the, how have we ſlaine one another, and who
+knowes but this is come upon us, for troubling, undoing, diſpi<g ref="char:EOLhyphen"/>ſing,
+&amp; baniſhing the people of God into ſo many Wilderneſſes?</p>
+               <p>57. Whether men are bound in Conſcience to be perſecuted
+when they can help it, for omitting of that they judge ſin<g ref="char:EOLhyphen"/>full,
+and whether a man may not take that which is his right,
+or uſe meanes to take it by force, in caſe they who ſhould give it
+denie it, and he cannot have it otherwiſe, thus I would keep my
+Eſtate, my liberty, my life by force, if I (can and) cannot keep
+it otherwiſe?</p>
+               <p>58. Whether there be any man that judgeth his own judge<g ref="char:EOLhyphen"/>ment
+erroneous?</p>
+               <p>59. Whether if any man will take upon him to puniſh men
+for errors, it be not fit he ſhew his authority from God, to
+warrant his practice, and if one man is to be puniſhed for error,
+muſt it not of neceſſity follow, that all men are to be puniſhed
+becauſe all men have errors, no man is free from them, and
+therefore all men are to be puniſhed with corporall puniſh<g ref="char:EOLhyphen"/>ments,
+for their errors either more or leſſe, ſo that if Luther and
+Calvin, and other good men were now amongſt us, they ſhould
+be puniſhed for the errors they held, as well as others are for
+the truth?</p>
+               <p>60. Whether the Prieſts of <hi>England</hi> in aſſuming to them<g ref="char:EOLhyphen"/>ſelves
+<pb n="13" facs="tcp:160511:8"/>
+to be Chriſts Miniſters, and the Apoſtles ſucceſſors, and a
+godly reformed Presbytery be not a cunning trick, and a meer
+chea<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to deceive the ſimple?</p>
+               <p>61. Whether the Prieſts practice be not contrary to the Apoſtles
+practice, take one inſtance, the Apoſtles diped viz. baptized per<g ref="char:EOLhyphen"/>ſons
+after they believed and confeſſed their faith: whereas they
+ſprinkled perſons before they believe, yea before they can ſpeak
+they baptized perſons in a River, <hi>Asts 2.</hi> and 8. <hi>Mat. 3.</hi> theſe
+ſprinkle water upon their faces, yet if you will believe them,
+they are the ſucceſſors of the Apoſtles, and follow their
+ſtep?</p>
+               <p>62. Wherefore do the Prieſts of <hi>England</hi> aſſume to them<g ref="char:EOLhyphen"/>ſelves
+the title of (Divine) is it becauſe they are exerciſed
+in Divine truthes, or becauſe they partake of the Divine nature,
+or both, if ſo, then many Tradeſmen may as well have the title
+of Divine given them as well as they, becauſe they partake of
+the Divine nature, and are as much exerciſed in matters Divine,
+as the moſt of them, but it is a queſtion, whether the title Di<g ref="char:EOLhyphen"/>vine
+is to be given to any man, but onely to God; whoſe being
+is onely Divine?</p>
+               <p>63. Whether the name of ſetling Religion be not a fine pre<g ref="char:EOLhyphen"/>tence
+to eſtabliſh error and tyranny, we deſire not liberty of
+conſcience of any man, let us injoy our right, our liberty of per<g ref="char:EOLhyphen"/>ſons
+and Eſtates, &amp; we will give them leave to hang our Religi<g ref="char:EOLhyphen"/>on
+and conſciences too if they can, they deſire not our Religion,
+nor can they ſee nor reach our conſcience, as Queſ. 28. and I am
+perſwaded that the hand of God and man, will be againſt <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+and <hi>Scotland,</hi> till they ceaſe troubling of men for matters of
+Religion?</p>
+               <p>64. Whether ever any that are contrary to the Synod, did ever
+ſue the Parliament to have the Presbyters puniſhed for any of
+their errors, though in them they abound, and whether ſome of
+them do not tend to the deſtruction of the State, if they might
+have their willes.</p>
+               <p>65. Whether it be not a great error, to ſlight and diſgrace
+the holy Scriptures and whether the Synod are not guilty of this
+error, in that they do not make the Scriptures the ground and
+rule of what they do, and this appeares, 1. in that what they
+<pb n="14" facs="tcp:160511:9"/>
+affirme in not in the Scrirtures. 2. in that they keepe not the
+forme of ſound words, as the Scriptures require, we cannot read
+it in the Scripture, what they impoſe upon others, nor can wee
+finde the ſubſtance of that they impoſe upon others in the whole
+Scriptures. 3. neither do they alleadge the words nor texts of
+Scripture to prove what they maintaine, as appeares by their
+Directory: what is their authority above the Scriptures, if they
+think ſo, it is no ſmall error?</p>
+               <p>66. Whe<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her it doth not appeare that the Prieſthood for the
+moſt part, do hate and diſpiſe the ſuffering Saints of Chriſt, and
+this appeares, 1. becauſe they ſpeake not for them, but 2. ſpeak
+againſt them, 3. they preach againſt them. 4. they perſecute them,
+and cauſe others to perſecute them, 5. when they are in priſon,
+they do not vifit them, 6. nor allow them any meanes (when
+they are in want) to maintaine them?</p>
+               <p>67. Whether it doth appeare, that the Prieſts oppoſe errors,
+and Sects out of conſcience, or out of bye and ſelfe ends, it ap<g ref="char:EOLhyphen"/>peares
+to be the later, becauſe they write and preach, and bend
+their ſtrength againſt thoſe truthes, that oppoſe their profit, ho<g ref="char:EOLhyphen"/>nour,
+eaſe, as tithes, falſe miniſtery, and couſoning of people, but
+as for errors, indeed as to deny the Reſurrection of the body,
+the truth of the Scriptures, to deny Chriſt to be God, and the
+like, which of them hath written on ſheet againſt any of theſe
+errors, notwithſtanding they have wrote volume againſt good
+men, for doing that Chriſt commanded them?</p>
+               <p>68. Whether thoſe Prieſts are not falſe Prieſts, in propheſy<g ref="char:EOLhyphen"/>ing
+in their Pulpits, that <hi>London</hi> ſhould be plundered, and their
+wives, &amp;c. raviſhed when Sir <hi>Thomas</hi> his Army came into <hi>Lon<g ref="char:EOLhyphen"/>don;</hi>
+you ſee apparantly they propheſie the viſion of their owne
+hearts, ſo they ſay, thus ſaith the Lord when he hath nor ſpoken
+unto them?</p>
+               <p>Whether the Prieſts were not the cauſe of the burning of the
+booke, entituled the Bloudy Tenant, becauſe it was againſt
+perſecution, and whether their conſciences would not have
+diſpenſed with the burning of the author of it, which I wiſh they
+would ſeriouſly conſider Dells Booke of Right Reformation?</p>
+               <p>70. Whether mens eyes are not ſo opened, &amp; the Prieſts deeds,
+ſo manifeſt that it is but in vaine for them to think that ever all
+men will be led by them more?</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
